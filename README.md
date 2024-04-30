@@ -5,7 +5,7 @@ A collection of awesome Lazy Apps 💤
 
 - [Lazygit](#lazygit)
 - [LazyDocker](#lazydocker)
-- [LAZYSQL](#lazysql)
+- [LazySql](#lazysql)
 
 
 ## Lazygit
