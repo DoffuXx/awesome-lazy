@@ -5,6 +5,8 @@ A collection of awesome Lazy Apps 💤
 
 - [Lazygit](#lazygit)
 - [LazyDocker](#lazydocker)
+- [LAZYSQL](#lazysql)
+
 
 ## Lazygit
 
@@ -17,6 +19,12 @@ Lazygit is a simple terminal UI for git commands, written in Go. It simplifies t
 LazyDocker is a terminal UI for Docker and Docker Compose, also written in Go by the same developer as Lazygit. It provides a convenient way to manage Docker containers, images, volumes, networks, and more, all from within a single, easy-to-use interface. With LazyDocker, you can monitor your Docker environment, inspect running containers, and perform various Docker-related tasks without the need to switch between multiple command-line tools.
 
 - GitHub Repository: [jesseduffield/lazydocker](https://github.com/jesseduffield/lazydocker)
+  
+## LAZYSQL
+
+Lazysql is a cross-platform TUI database management tool written in Go. Inspired by Lazygit, Lazysql aims to provide a user-friendly terminal interface for managing SQL databases. It's designed for developers who spend most of their time in the terminal and want a convenient way to interact with databases.
+
+- GitHub Repository: [jorgerojas26/lazysql](https://github.com/jorgerojas26/lazysql)
 
 ## Contributing
 
