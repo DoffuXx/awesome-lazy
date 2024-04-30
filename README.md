@@ -1,4 +1,4 @@
-# awesome-lazy
+# awesome-lazy 😴
 A collection of awesome Lazy Apps 💤
 
 ## Contents
